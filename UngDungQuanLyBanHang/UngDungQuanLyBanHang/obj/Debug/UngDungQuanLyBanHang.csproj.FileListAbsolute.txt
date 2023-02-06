@@ -1,0 +1,33 @@
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\bin\Debug\UngDungQuanLyBanHang.exe.config
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\bin\Debug\UngDungQuanLyBanHang.exe
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\bin\Debug\UngDungQuanLyBanHang.pdb
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form1.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form2.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Properties.Resources.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.csproj.GenerateResource.cache
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.exe
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.pdb
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form3.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form4.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form5.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form6.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form7.resources
+E:\Quang\source\repos\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form8.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\bin\Debug\UngDungQuanLyBanHang.exe.config
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\bin\Debug\UngDungQuanLyBanHang.exe
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\bin\Debug\UngDungQuanLyBanHang.pdb
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form1.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form2.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form3.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form4.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form5.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form6.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form7.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Form8.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.Properties.Resources.resources
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.csproj.GenerateResource.cache
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.exe
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.pdb
+E:\D-data\HK1-2021-2022\DotNET\Now Lecture\Báo cáo\UngDungQuanLyBanHang\UngDungQuanLyBanHang\obj\Debug\UngDungQuanLyBanHang.csproj.AssemblyReference.cache
